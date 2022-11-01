@@ -1,0 +1,21 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "postgres",
+        "password": "postgres",
+        "database": "rickandmorty"
+    },
+    "smtp": {
+        "switch": "ON",
+        "host": "smtp-mail.outlook.com",
+        "port": 587,
+        "user": "example@hotmail.com",
+        "password": "",
+        "from": "Rick And Morty <example@hotmail.com>",
+        "to": ["example@gmail.com", "example@outlook.com"]
+    },
+    "app": {
+        "base": "https://rickandmortyapi.com/api"
+    }
+}

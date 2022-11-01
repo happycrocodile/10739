@@ -1,0 +1,4 @@
+requests==2.27.1
+psycopg2==2.9.3
+tqdm==4.64.0
+pyfiglet==0.8.post1
